@@ -25,3 +25,7 @@ Load environment
 Run script
 
     mlm.py <COMMAND>
+
+## Remarks
+
+* Relevant on Mac: https://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python
